@@ -1,0 +1,42 @@
+🧠 Exploring With SQL
+
+A collection of SQL projects and learnings from my journey into data analytics.
+
+This repository includes hands-on SQL practice projects, starting with my first analysis — Maven Movies, inspired by the Maven Analytics course. Each project focuses on exploring real-world data problems through structured queries, insights, and storytelling.
+
+
+📂 Projects Included
+
+Maven Movies Project
+
+Dataset: Maven Movies Database
+
+Key Focus: Filtering, Joins, Aggregations, and Pattern Matching
+
+Description: Explored customer behavior, payments, and film data to identify trends and insights.
+
+Read Full Article on LinkedIn
+
+
+💡 Key Learnings
+
+Writing effective queries using WHERE, AND, BETWEEN, and LIKE
+
+Understanding table relationships through primary and foreign keys
+
+Translating data into business insights
+
+Building query logic with clarity and intent
+
+🛠️ Tools & Environment
+
+MySQL Workbench
+
+Maven Analytics Course Dataset
+
+GitHub (for version tracking and project documentation)
+
+🏁 What’s Next
+
+This is just the beginning of my #ExploringWithSQL journey.
+I’ll continue adding more projects, expanding into joins, subqueries, and analytical functions.
